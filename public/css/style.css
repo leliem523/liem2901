@@ -1,0 +1,181 @@
+.pg-d{
+    background: #141414;
+    color: white;
+}
+.pg-d:hover{
+    text-decoration: none;
+    color: black;
+}
+.pg-b{
+    border-radius: 25px;
+}
+.pg-pad{
+    padding: 0 25px;
+}
+header{
+    background: #141414 ;
+}.pg-r{
+    text-align: right;
+}
+.c-w{
+    color: white;
+}
+a:hover{
+ text-decoration: none;
+ color: white;
+}
+.pg-mau{
+    background: #141414;
+}
+.pd-pag2{
+    padding: 0 100px;
+}
+.pd-top{
+    padding-top: 500px !important;
+}
+.bd{
+    border-radius: 25px;
+    border: 1px white solid;
+    color: white;
+    padding: 10px;
+    margin: 20px 0 100px 0;
+}
+.bd:hover{
+    background: white;
+    color: cornflowerblue;
+}
+.fas{
+    color: yellow;
+}
+.ma{
+    margin-bottom: 15%;
+}
+.inner{
+    text-align: center;
+    padding-top: 50px;
+    
+}
+.caption {
+    position: absolute;
+    text-align: center;
+   top: 0%;
+    padding-top: 250px;
+   margin-left: auto;
+   margin-right: auto;
+    color: white;
+    background: #141414c2;
+    width: 100%;
+    bottom: 0%;
+    
+}
+
+.pd{
+    border: 1px gray solid;
+}
+.bd-top{
+    border-top: 1px solid gray;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.view{
+    text-align: center;
+    display: inline;
+    border-radius: 25px;
+    border: 1px solid blue;
+    padding: 1% 10%;
+}
+.view:hover{
+    background: blue;
+    color:  white;
+
+}.center{
+   text-align: center;
+}.kh{
+    text-decoration: none;
+    color:  white;
+}
+.kieu{
+    text-align: center;
+    background: #333333;
+    color: white;
+    margin: 5% 0;
+}
+.upcom{
+    text-align: center;
+}
+.pd-car{
+    padding: 0% 0% 5% 0%;
+}
+.br-popular{
+    background: #192675;
+}
+.text-center{
+    text-align: center;
+    color:  white;
+}
+.pd-popular{
+    padding: 5% 0% 2% 0;
+}
+.pd-cal{
+    padding: 0% 0 5% 0;
+}
+.what{
+    text-align: center;
+    padding: 5% 0;
+}
+.note{
+    background: blue;
+}
+.infor{
+    text-align: center;
+}
+.color-hand{
+    background: #f9f9f9;
+    padding: 8% 0;
+}
+.back-black{
+    background-color: #051925;
+    color: white;
+    border: 1px solid;
+    padding: 2% 5%;
+}
+.back-black:hover{
+    background: white;
+    color: #051925;
+}
+.back-blue{
+    background: #2441e7;
+    color: white;
+    border: 1px solid;
+    padding: 2% 5%;
+}
+.back-blue:hover{
+    background: white;
+    color: #2441e7;
+}
+.pd-vua{
+    padding: 2% 0;
+}
+#january{
+    margin: 0 1px;
+}
+a:hover{
+    text-decoration: none;
+}
+.choll{
+    background: #14141466;
+    top: auto;
+    bottom: 10%;
+    padding-top: 10%;
+    padding-bottom: 5%;
+}
+.can{
+    background: #14141466;
+    top: 50%;
+    bottom: 20%;
+    padding-bottom: 10.1%;
+}
+.skill:hover{
+    color: black;
+}
+
